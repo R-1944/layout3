@@ -1,7 +1,8 @@
+
 .traning{
   width: 500px;
   height: 170px;  
-  padding: 50px;
+  padding: 40px;
   background-color: rgba(0, 0, 0, 0.549);
   box-sizing: border-box;
   color: white; 
@@ -30,7 +31,7 @@
 .list{
   width: 280px;
   height: 348px;  
-  padding:0px;
+  padding:20px;
   padding-left: 100px;
   background-color:rgba(128, 128, 128, 0.492);
   box-sizing: border-box;
@@ -55,11 +56,11 @@ padding-top: 8px;
   margin-left: 120px; 
   /* margin-bottom: 500px; */
   margin-top: -172px;
-  direction: rtl;
+  /* direction: rtl; */
   font-size: small;
 
 }
- .logo{
+ /* .logo1{
   box-sizing: border-box;
   background-color: rgb(11, 174, 239);
   text-align: center;
@@ -67,10 +68,28 @@ padding-top: 8px;
   width: 280px;
   height: 170px;
   padding: 90px;
+  padding-left: -100px;
   font-size: 30px;
   font-weight: bold;
   margin-right: 50px;
   margin-left: -417px;
   margin-top: -14px;
 
+} */
+.ourcompany{
+  box-sizing: border-box;
+  background-color:rgba(232, 237, 241, 0.67);
+
+  height: 500px;
+  width: 500px;
+  color:grey;
+  margin-left: 110px;
+  padding: 15px;
+  
 } 
+.last_part{
+  background-color:white;
+  height: 502px;
+  width: 282px;
+  margin-left: -418px;
+}
