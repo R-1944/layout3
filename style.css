@@ -13,7 +13,7 @@
 }
 .prog{
   width: 500px;
-  height: 150px;  
+  height: 170px;  
   padding: 20px;
   padding-left: 50px;
   background-color: rgba(222, 233, 25, 0.549);
@@ -25,24 +25,24 @@
   padding-bottom: 100px;
   position: absolute;
   padding-top: 30px;
-  margin-top: 199.5px;
+  margin-top: 179.5px;
   font-weight: bold;
   font-size: 60px;
 
 }
 .list{
   width: 280px;
-  height: 348px;  
+  height: 350px;  
   padding:20px;
   padding-left: 100px;
   background-color:rgba(128, 128, 128, 0.492);
   box-sizing: border-box;
   color: white; 
   text-align: right;
-padding-top: 8px;
-    margin-top: -520px;
-    margin-left:500px;
-    direction: rtl;
+  padding-top: 8px;
+  margin-top: -520px;
+  margin-left:500px;
+  direction: rtl;
 }
 .address p{
   width: 280px;
@@ -57,7 +57,7 @@ padding-top: 8px;
   margin-right: 50px;  
   margin-left: 120px; 
   /* margin-bottom: 500px; */
-  margin-top: -172px;
+  margin-top: -171px;
   /* direction: rtl; */
   font-size: small;
 
