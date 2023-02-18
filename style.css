@@ -1,7 +1,7 @@
 
 .traning{
   width: 500px;
-  height: 170px;  
+  height: 190px;  
   padding: 40px;
   background-color: rgba(0, 0, 0, 0.549);
   box-sizing: border-box;
@@ -13,7 +13,7 @@
 }
 .prog{
   width: 500px;
-  height: 170px;  
+  height: 150px;  
   padding: 20px;
   padding-left: 50px;
   background-color: rgba(222, 233, 25, 0.549);
@@ -26,6 +26,8 @@
   position: absolute;
   padding-top: 30px;
   margin-top: 199.5px;
+  font-weight: bold;
+  font-size: 60px;
 
 }
 .list{
@@ -80,8 +82,8 @@ padding-top: 8px;
   box-sizing: border-box;
   background-color:rgba(232, 237, 241, 0.67);
 
-  height: 500px;
-  width: 500px;
+   height: 500px;
+  width: 500px; 
   color:grey;
   margin-left: 110px;
   padding: 15px;
@@ -89,7 +91,18 @@ padding-top: 8px;
 } 
 .last_part{
   background-color:white;
-  height: 502px;
-  width: 282px;
+   height: 502px;
+  width: 282px; 
   margin-left: -418px;
 }
+/* .logo{
+  background-color: rgb(11, 174, 239);
+  box-sizing: border-box;
+  color: white;
+  width: 280px;
+  height: 170px;
+  margin-left: -417px;
+  transform: rotate(230deg);
+  border-radius:130px;
+  border-top-right-radius: 100px;
+} */
